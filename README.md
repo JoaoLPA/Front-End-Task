@@ -1,5 +1,7 @@
-#Front End Task
+# Front End Task
 Front End task for Fluency Academy Front End position.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
